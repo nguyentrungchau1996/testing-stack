@@ -1,0 +1,3 @@
+[submodule "content-studio-new"]
+	path = content-studio-new
+	url = https://github.com/CoachingCloud/content-studio-new.git
