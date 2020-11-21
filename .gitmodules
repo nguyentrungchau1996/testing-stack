@@ -1,3 +1,6 @@
 [submodule "Product_catalogue"]
 	path = Product_catalogue
 	url = git@github.com:nguyentrungchau1996/Product_catalogue.git
+[submodule "cc-communication"]
+	path = cc-communication
+	url = git@github.com:nguyentrungchau1996/cc-communication.git
